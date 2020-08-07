@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS blogpost;
+CREATE DATABASE blogpost;
+

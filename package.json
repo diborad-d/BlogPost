@@ -1,0 +1,24 @@
+{
+  "name": "blogpost",
+  "version": "1.0.0",
+  "description": "TapOnIt Technical Eval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diborad-d/BlogPost.git"
+  },
+  "author": "Dibora Dagne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diborad-d/BlogPost/issues"
+  },
+  "homepage": "https://github.com/diborad-d/BlogPost#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}
